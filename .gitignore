@@ -19,6 +19,7 @@ build
 
 # other
 eclipse
+.eclipse
 run
 .vscode
 
@@ -26,3 +27,6 @@ run
 forge*changelog.txt
 *.txt
 *.zip
+
+# Others
+test
